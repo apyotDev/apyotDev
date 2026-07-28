@@ -82,11 +82,17 @@ Currently, I'm focused on developing AI-powered applications, predictive analyti
 
 ---
 
+```markdown
 ## 📌 Featured Projects
 
-- 🌾 **Frognosis** — AI-powered Rice Disease Detection & Mitigation System
-- 🌍 **Disaster Relief Resource Optimizer** — Machine Learning Decision Support System with GIS Dashboard
+- 🌾 **[Frognosis – AI-powered Rice Disease Detection & Mitigation System](https://github.com/apyotDev/frognosis)**
+
+- 🌍 **[Disaster Relief Resource Optimizer – Machine Learning Decision Support System with GIS Dashboard](https://github.com/apyotDev/disaster-relief-resource-optimizer)**
 
 ---
+```
+
+
+
 
 ![](https://visitcount.itsvg.in/api?id=ApyotDev&icon=5&color=6)
