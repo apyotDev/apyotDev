@@ -81,8 +81,6 @@ Currently, I'm focused on developing AI-powered applications, predictive analyti
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApyotDev&layout=compact&theme=blueberry&hide_border=true)
 
 ---
-
-```markdown
 ## 📌 Featured Projects
 
 - 🌾 **[Frognosis – AI-powered Rice Disease Detection & Mitigation System](https://github.com/apyotDev/frognosis)**
@@ -90,9 +88,5 @@ Currently, I'm focused on developing AI-powered applications, predictive analyti
 - 🌍 **[Disaster Relief Resource Optimizer – Machine Learning Decision Support System with GIS Dashboard](https://github.com/apyotDev/disaster-relief-resource-optimizer)**
 
 ---
-```
-
-
-
 
 ![](https://visitcount.itsvg.in/api?id=ApyotDev&icon=5&color=6)
